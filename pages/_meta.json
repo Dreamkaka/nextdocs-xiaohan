@@ -1,0 +1,14 @@
+{
+    "about": {
+        "title": "关于",
+        "type": "page"
+        
+      },
+      "contact": {
+        "title": "联系我 ↗",
+        "type": "page",
+        "href": "https://twitter.com/Dreamkaka3",
+        "newWindow": true
+      }
+    }
+      
